@@ -1,5 +1,5 @@
 {
-  "name": "cryptjs",
+  "name": "@chapdel/aescrypt",
   "version": "1.0.0",
   "description": "Crypt and decrypt on Javascript for PHP client",
   "main": "index.js",
@@ -11,5 +11,13 @@
     "decrypt"
   ],
   "author": "Chapdel Kamga <chapdel.kamga2@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chapdel/aes-crypt-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chapdel/aes-crypt-js/issues"
+  },
+  "homepage": "https://github.com/chapdel/aes-crypt-js#readme"
 }
