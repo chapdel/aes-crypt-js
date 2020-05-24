@@ -1,0 +1,15 @@
+{
+  "name": "cryptjs",
+  "version": "1.0.0",
+  "description": "Crypt and decrypt on Javascript for PHP client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "encrypt",
+    "decrypt"
+  ],
+  "author": "Chapdel Kamga <chapdel.kamga2@gmail.com>",
+  "license": "MIT"
+}
